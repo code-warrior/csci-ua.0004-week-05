@@ -1,0 +1,45 @@
+* {
+   margin: 0;
+   padding: 0;
+   border: 1px solid black;
+}
+
+html {
+   border-color: red;
+}
+
+body {
+   border-color: blue;
+}
+
+header {
+   border-color: green;
+}
+
+h1 {
+   border-color: pink;
+}
+
+p {
+   border-color: #c0ffee;
+}
+
+a {
+   border-color: #bada55;
+}
+
+a:link {
+   text-decoration: none;
+}
+
+a:visited {
+   color: red;
+}
+
+a:hover {
+   text-decoration: overline;
+}
+
+a:active {
+   text-decoration: underline;
+}
